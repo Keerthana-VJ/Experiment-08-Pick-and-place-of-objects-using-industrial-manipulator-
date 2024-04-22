@@ -1,3 +1,9 @@
+
+## DATE:22.04.2024
+## NAME:KEERTHANA.V
+## REG NO:212223220045
+## DEPARTMENT:INFORMATION TECHNOLOGY
+
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
 ### Aim :
@@ -81,32 +87,41 @@ and click on the connect icon
 
 3. click on the 
 
+![WhatsApp Image 2024-04-22 at 1 36 20 PM](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/dcdf1c52-5d01-4035-b5a4-5bf128995642)
+
+![WhatsApp Image 2024-04-22 at 1 36 21 PM (1)](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/79e138bf-06a3-4150-bd67-36b7f799b5ce)
+
+![WhatsApp Image 2024-04-22 at 1 36 21 PM](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/e5662048-eba9-43c8-9272-e72f6833038b)
+
+![WhatsApp Image 2024-04-22 at 1 36 22 PM](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/c61ca1a2-ed5e-4c8f-96c2-b7e4d8bfa6c6)
+
+### output video of pick and place :
+
+https://drive.google.com/file/d/1Ccf43-rsuUbZ7CQLdaSZ1aJcpe4TE1RC/view?usp=sharing
 
 
+### output screen shots of pick and place
 
+![WhatsApp Image 2024-04-22 at 1 36 16 PM](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/dad18eca-51bf-4000-9438-3c9bbe0de7c1)
 
+![WhatsApp Image 2024-04-22 at 1 36 17 PM (1)](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/544cab14-bb13-4f30-8e1e-6b1ad4972152)
 
+![WhatsApp Image 2024-04-22 at 1 36 17 PM](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/17727b19-5271-48ba-b8a9-e2e8af736b18)
 
+![WhatsApp Image 2024-04-22 at 1 36 18 PM (1)](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/064f32e2-1e49-499e-976b-b81e27a897a2)
 
+![WhatsApp Image 2024-04-22 at 1 36 18 PM](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/e2071034-c2d9-4c14-a31b-39f4d271b3a5)
 
+![WhatsApp Image 2024-04-22 at 1 36 19 PM (1)](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/bc5067c9-0c20-4988-bccc-78febe43b252)
 
+![WhatsApp Image 2024-04-22 at 1 36 19 PM (2)](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/7163c716-fd8a-43f2-948d-c01141b51948)
 
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
+![WhatsApp Image 2024-04-22 at 1 36 19 PM](https://github.com/Keerthana-VJ/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149347704/7a105fe0-4986-438e-beb6-3ec29905b9ac)
 
 
 
 ### Results: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
